@@ -1,1 +1,89 @@
-/* Placeholder */
+body {
+    background-image: url('../images/background.png');
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    padding-top: 90px;
+    vertical-align: middle;
+  }
+  
+  input {
+    background: transparent;
+    border: none;
+    padding-left: 3px;
+  }
+
+  footer {
+      color: #FFFFF0;
+      padding-bottom: 10px;
+  }
+  
+  
+  #header {
+    padding: 0px;
+    font-size: 30px;
+    color: #FFFFF0;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #date {
+    padding: 2px;
+    font-size: 15px;
+    color: #FFFFF0;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #plannerContainer {
+    background-color: #ddd;  
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding: 40px;
+    border-radius: 15px;
+  } 
+  
+  .col-md-1, .col-md-2, .col-md-9 {
+    padding: 0;
+  }
+  
+  .plannerRow {
+    height: 50px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    border-radius: 15px;
+  }
+  
+  .timeBox {
+    background-color: #FFFFF0;  
+    color: black;
+    height:100%;
+    width: 100%;
+    text-align: center;
+    border-radius: 15px 0px 0px 15px;
+    display: inline-block;
+    font-size: 17px;
+    padding-top: 13px;
+    font-weight: bold;
+  }
+  
+  .dailyPlan {
+    color: black;  
+    font-size: 12pt;
+    height:100%;
+    width: 100%;
+    padding-right: 2px;
+  }
+  
+  .saveIcon {
+    background-color: #03bdc0;
+    color: #FFFFF0;
+    border-radius: 0px 15px 15px 0px;
+    font-size: 1.5em;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 1px;
+  }
+  
