@@ -3,4 +3,4 @@ This is a day planner coded in JavaScript that utilizes localStorage to save use
 updates color code based on current time.
 
 ## Link
-Https://Sofa-KB.github.io/HW5
+Https://Sofa-KB.github.io/DayPlanner
