@@ -4,3 +4,5 @@ updates color code based on current time.
 
 ## Link
 Https://Sofa-KB.github.io/DayPlanner
+
+![](assets/images/GitHubImg.png)
